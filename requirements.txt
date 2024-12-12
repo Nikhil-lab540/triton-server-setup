@@ -6,3 +6,4 @@ numpy
 ipykernel
 requests
 accelerate
+bitsandbytes
